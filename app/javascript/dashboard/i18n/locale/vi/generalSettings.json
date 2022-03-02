@@ -47,7 +47,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Bạn có thể nhận email trong miền tùy chỉnh của mình ngay bây giờ."
       }
     },
-    "UPDATE_CHATWOOT": "Đã có bản cập nhật %{latestChatwootVersion} cho Chatwoot. Vui lòng cập nhật phiên bản của bạn."
+    "UPDATE_CHATWOOT": "Đã có bản cập nhật %{latestSHubVersion} cho SHub. Vui lòng cập nhật phiên bản của bạn."
   },
   "FORMS": {
     "MULTISELECT": {
@@ -78,7 +78,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Đã ngắt kết nối khỏi Chatwoot"
+      "TEXT": "Đã ngắt kết nối khỏi SHub"
     },
     "BUTTON": {
       "REFRESH": "Làm mới"

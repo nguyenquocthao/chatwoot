@@ -1,23 +1,25 @@
 # if you dont specify locked attribute, the default value will be true
 # which means the particular config will be locked
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'SHub CRM'
+  locked: true
 - name: LOGO_THUMBNAIL
   value: '/brand-assets/logo_thumbnail.svg'
 - name: LOGO
   value: '/brand-assets/logo.svg'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://shub.edu.vn'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://shub.edu.vn'
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'SHub'
+  locked: true
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://hdsd.shub.edu.vn/terms-conditions'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://hdsd.shub.edu.vn/privacy-policy'
 - name: DISPLAY_MANIFEST
-  value: true
+  value: false
 - name: MAILER_INBOUND_EMAIL_DOMAIN
   value:
   locked: false

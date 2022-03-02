@@ -1,12 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>woot-log</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="woot-log" fill-rule="nonzero">
-            <circle id="Oval" fill="#47A7F6" cx="256" cy="256" r="256"></circle>
-            <path d="M362.807947,368.807947 L244.122956,368.807947 C178.699407,368.807947 125.456954,315.561812 125.456954,250.12177 C125.456954,184.703089 178.699407,131.456954 244.124143,131.456954 C309.565494,131.456954 362.807947,184.703089 362.807947,250.12177 L362.807947,368.807947 Z" id="Fill-1" stroke="#FFFFFF" stroke-width="6" fill="#FFFFFF"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1E88E5;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<title>woot-log</title>
+<desc>Created with Sketch.</desc>
+<g id="Logo">
+	<g id="woot-log">
+		<circle id="Oval" class="st0" cx="256" cy="256" r="256"/>
+		<g>
+			<path class="st1" d="M179.8,284.7c5.3,4,11,7.5,17,10.4c6.2,3,12.8,5.2,19.5,6.8c3.1,0.7,6.2,1.2,9.3,1.6V295
+				c-5.3-1.8-10.2-4.8-14.3-8.9l0,0c-7-7-10.9-16.3-10.9-26.3c0-9.9,3.9-19.2,10.9-26.3c7-7,16.3-10.9,26.3-10.9
+				c5.8,0,11.4,1.3,16.4,3.8l42.1-42.3l23.2-23.3c-4.4-7.5-9.8-14.3-16.2-20.3c-8.4-8-18-14.3-28.6-18.8c-11.7-4.9-24.1-7.5-37-7.5
+				c-19,0-37.4,5.6-53.1,16.2c-7.6,5.1-14.4,11.3-20.2,18.4c-5.9,7.1-10.6,15-14.2,23.4c-4.9,11.7-7.5,24.1-7.5,37
+				c0,11.6,2,22.8,6.1,33.6c3.9,10.3,9.6,19.9,16.8,28.3C169.7,276.1,174.6,280.7,179.8,284.7z"/>
+			<path class="st1" d="M343.7,221.3c-10.6-12.4-24-22.3-39.2-28.7l-49.2,49.4c-4.6-4.5-10.9-7.3-17.8-7.3c-7,0-13.3,2.8-17.8,7.4
+				c-4.6,4.6-7.4,10.9-7.4,17.8c0,7,2.8,13.3,7.4,17.8c0,0,0,0,0,0c4.6,4.5,10.9,7.4,17.8,7.4v31.1c-16.4,0-31.9-3.7-45.8-10.3
+				l-27.2,27.4c13.2,30.5,40.1,53.7,73.1,61.6c8.1,1.9,16.5,3,25.1,3c44.3,0,82.2-26.9,98.5-65.3c5.4-12.8,8.4-26.8,8.4-41.6
+				C369.5,264.3,359.7,240,343.7,221.3z"/>
+		</g>
+	</g>
+</g>
 </svg>
