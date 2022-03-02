@@ -45,7 +45,7 @@
         "NOTE": "Bật âm thanh thông báo trong trang tổng quan cho các tin nhắn và cuộc trò chuyện mới.",
         "NONE": "Không có",
         "ASSIGNED": "Cuộc trò chuyện được phân công",
-        "ALL_CONVERSATIONS": "Tất cả cuộc trò chuyện"
+        "ALL_CONVERSATIONS": "Tất cả"
       },
       "EMAIL_NOTIFICATIONS_SECTION": {
         "TITLE": "Thông Báo Email",
@@ -147,7 +147,7 @@
   },
   "SIDEBAR": {
     "CONVERSATIONS": "Cuộc trò chuyện",
-    "ALL_CONVERSATIONS": "Tất cả cuộc trò chuyện",
+    "ALL_CONVERSATIONS": "Tất cả",
     "MENTIONED_CONVERSATIONS": "Nhắn đến",
     "REPORTS": "Báo cáo",
     "SETTINGS": "Cài Đặt",

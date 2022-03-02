@@ -1,12 +1,12 @@
 # if you dont specify locked attribute, the default value will be true
 # which means the particular config will be locked
 - name: INSTALLATION_NAME
-  value: 'SHub CRM'
+  value: 'Titan CRM'
   locked: true
 - name: LOGO_THUMBNAIL
-  value: '/brand-assets/logo_thumbnail.svg'
+  value: '/brand-assets/titan-logo-16px.png'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: '/brand-assets/titan-crm.png'
 - name: BRAND_URL
   value: 'https://shub.edu.vn'
 - name: WIDGET_BRAND_URL
